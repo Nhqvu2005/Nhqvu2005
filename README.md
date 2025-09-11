@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://facebook.com/tenica2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tenica2005" height="30" width="40" /></a>
+<a href="https://fb.com/tenica2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tenica2005" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
